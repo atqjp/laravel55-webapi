@@ -1,0 +1,12 @@
+{
+    "name": "tam-548/laravel55-webapi",
+    "authors": [
+        {
+            "name": "asahara.t",
+            "email": "asahara.t@tam-tam.co.jp"
+        }
+    ],
+    "require": {
+        "laravel/laravel": "^5.5"
+    }
+}
